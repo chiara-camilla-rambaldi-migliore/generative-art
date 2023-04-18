@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/0fbcf7be-c263-4a35-ae4c-8bca4372cb28/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/generative-art",
-    "appService.deploySubpath": "."
-}
